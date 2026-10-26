@@ -1,6 +1,6 @@
 Anish Kumar Mohanty
 
-I am a second-year Computer Science and Engineering student at Newton School of Technology in Pune, specializing in full-stack web development and algorithmic problem solving.
+I am a Computer Science and Engineering student at Newton School of Technology in Pune, specializing in full-stack web development and algorithmic problem solving.
 
 What I am currently working on
   Experience: Recently worked as a Web Development Intern at InAmigos Foundation.
